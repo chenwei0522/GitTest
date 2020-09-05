@@ -2,7 +2,7 @@ package at.guigu.dao;
 
 public class user {
     public void usertext(){
-        String user = "xiaoming";
+        String user = "xiaomingsss";
         System.out.println(user);
     }
 }
